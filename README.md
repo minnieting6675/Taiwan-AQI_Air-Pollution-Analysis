@@ -1,7 +1,7 @@
 # Taiwan Air Quality Index (AQI) Analysis Project
 
 ## Project Overview
-This project aims to analyze Taiwan's Air Quality Index (AQI) data. We obtain the AQI dataset from the government's open data platform, perform data processing and exploratory analysis, and present the results through visualization.
+This project aims to analyze Taiwan's Air Quality Index (AQI) data. I obtain the AQI dataset from the government's open data platform, perform data processing and exploratory analysis, and present the results through visualization.
 
 ## Features
 - Download AQI dataset from the government's open data platform
